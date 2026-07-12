@@ -66,7 +66,7 @@ Second-Web/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Second-Web.git
+git clone https://github.com/MohamedKhaled31/Second-Web.git
 ```
 
 ### Open the project
